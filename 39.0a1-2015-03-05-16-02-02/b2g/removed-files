@@ -1,0 +1,8 @@
+README.txt
+libmozutils.so
+jssubloader/
+defaults/preferences/services-sync.js
+defaults/preferences/healthreport-prefs.js
+components/dom_sms.xpt
+components/dom_webspeech.xpt
+libxpcom.so
